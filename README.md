@@ -1,1 +1,1 @@
-# PythonDjango_Seneca
+# PythonDjango_SenecaCollege
